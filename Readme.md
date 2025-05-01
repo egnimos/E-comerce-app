@@ -86,9 +86,8 @@ If you enjoy this build series, don’t forget to:
 
 ## 📬 Contact
 
-**YouTube Channel:** [Your Channel Name](https://your-channel-link)  
-**Twitter / X:** [@yourhandle](https://twitter.com/yourhandle)  
-**Email:** your@email.com
+**YouTube Channel:** [Code & Brew](https://www.youtube.com/@Code-and-Brew)  
+**Email:** dataguysendme@gmail.com
 
 ---
 
