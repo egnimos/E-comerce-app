@@ -1,9 +1,12 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import HeaderComp from "@/components/HeaderComp.vue"
+import FooterComp from "@/components/FooterComp.vue"
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <!-- Header -->
+  <HeaderComp/>
+  <!-- Center Text Like Welcome to Store -->
+  <!-- Footer -->
+  <FooterComp/>
 </template>
